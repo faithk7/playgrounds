@@ -1,0 +1,3 @@
+[submodule "cppmicroservices_playground/CppMicroServices"]
+	path = cppmicroservices_playground/CppMicroServices
+	url = https://github.com/CppMicroServices/CppMicroServices.git
